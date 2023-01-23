@@ -1,6 +1,6 @@
 # Economic Wolf
 
-Hosted at wolf.iihsan.com
+Hosted at <a href="https://wolf.iihsan.com">Live Demo: wolf.iihsan.com</a> hosted at AWS by iihsan
 
 Connecting decision makers to a vast network of information, our terminal facilitates the audience to understand the forces shaping Pakistan's economic system with immersive data visualizations and news that go beyond stats and charts to turn their knowledge into action.
 ![image](https://user-images.githubusercontent.com/62180086/163709784-5824beeb-7808-49a7-8ddd-4938e945c602.png)
