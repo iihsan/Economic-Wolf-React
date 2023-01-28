@@ -12,6 +12,7 @@ Connecting decision makers to a vast network of information, our terminal facili
 * Responsive layout
 * React Chart.js/Echarts
 * Styled Bootstrap components like buttons, modals, etc
+* Backend: Django, Django REST
 
 
 ## Pages
