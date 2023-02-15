@@ -1,6 +1,6 @@
 # Economic Wolf
 
-Hosted at <b>Live Demo:</b><br><a href="https://wolf.iihsan.com">https://wolf.iihsan.com</a> hosted at AWS by iihsan
+Hosted at thewolf.com.co
 
 Connecting decision makers to a vast network of information, our terminal facilitates the audience to understand the forces shaping Pakistan's economic system with immersive data visualizations and news that go beyond stats and charts to turn their knowledge into action.
 ![image](https://user-images.githubusercontent.com/62180086/163709784-5824beeb-7808-49a7-8ddd-4938e945c602.png)
@@ -12,7 +12,6 @@ Connecting decision makers to a vast network of information, our terminal facili
 * Responsive layout
 * React Chart.js/Echarts
 * Styled Bootstrap components like buttons, modals, etc
-* Backend: Django, Django REST
 
 
 ## Pages
@@ -31,11 +30,11 @@ We have implemented some basic pages, so you can see our template in action.
 
 1. Clone repository
 ```shell
-git clone https://github.com/iihsan/Economic-Wolf-React
+git clone https://github.com/saboorqais/EconomicWolf
 ```
 2. Get in the project folder
 ```shell
-cd Economic-Wolf-React
+cd Economic Wolf
 ```
 3. Install dependencies via npm or yarn
 ```shell
